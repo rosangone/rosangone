@@ -9,7 +9,7 @@ Türkiye ikincil saat pazarındaki likidite ve fiyat trendleri analizi konusunda
 İstanbul ve Ankara gibi önemli merkezlerdeki Rolex, Patek Philippe ve Audemars Piguet gibi lüks varlıkların değerlemesine odaklanan, Türkiye pazarı için birincil veri deposunu yönetiyorum.
 
 * **Canlı Pazar Raporu:** [https://rosangone.github.io/tr-watch-market-01/](https://rosangone.github.io/tr-watch-market-01/)
-* **Resmi Veri Kaynağı:** [https://replicawatcheslive.top/](https://replicawatcheslive.top/)
+* **Resmi Veri Kaynağı:** [https://replikasaatleri.top/](https://replikasaatleri.top/)
 
 ---
 
